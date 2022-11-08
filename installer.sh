@@ -6,5 +6,5 @@ echo "versione di nodejs"
 nodejs -v;
 echo "installo il gestione dei pacchetti di nodejs"
 sudo apt-get install npm -y;
-echo "numero della verione del gestore dei pacchetti"
+echo "versione del gestore dei pacchetti di nodejs"
 npm -v;
