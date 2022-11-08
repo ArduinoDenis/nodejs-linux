@@ -1,5 +1,5 @@
 # nodejs-linux
-installare nodejs su linux (apt-get)
+installare nodejs su linux
 
 # scaricare i files
 
