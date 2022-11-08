@@ -7,7 +7,12 @@ installare nodejs su linux (apt-get)
 git clone https://github.com/ArduinoDenis/nodejs-linux.git
 ```
 
-# avviare l'installer.sh
+# se usate apt-get allora eseguire questa procedura
 ```bash
 sudo chmod 700 installer.sh && ./installer.sh
+```
+
+# mentre se avete ubuntu (Desktop, Server) allora seguite questa procedura
+```bash
+sudo chmod 700 ubuntu.sh && ./ubuntu.sh
 ```
