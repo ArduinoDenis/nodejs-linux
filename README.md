@@ -7,12 +7,12 @@ installare nodejs su linux
 git clone https://github.com/ArduinoDenis/nodejs-linux.git
 ```
 
-# se usate apt-get 
+# se dovete installare
 ```bash
 cd nodejs-linux/ && sudo chmod 700 installer.sh && ./installer.sh
 ```
 
-# se usate snap
+# se dovete controllare la versione di nodejs
 ```bash
-cd nodejs-linux/ && sudo chmod 700 snap.sh && ./snap.sh
+cd nodejs-linux/ && sudo chmod 700 info_version.sh && ./info_version.sh
 ```
