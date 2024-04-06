@@ -1,18 +1,9 @@
-# nodejs-linux
-installare nodejs su linux
+# Wordpress on Linux
 
-# scaricare i files
+## Documentation
 
-```bash
-git clone https://github.com/ArduinoDenis/nodejs-linux.git
-```
+For further information and detailed documentation, please refer to the [Documentation](https://docs.arduinodenis.com/github/diverse-coding-projects/diverse-coding-projects/wordpress-on-linux).
 
-# se dovete installare
-```bash
-cd nodejs-linux/ && sudo chmod 700 installer.sh && ./installer.sh
-```
+## License
 
-# se dovete controllare la versione di nodejs
-```bash
-cd nodejs-linux/ && sudo chmod 700 info_version.sh && ./info_version.sh
-```
+This script is released under the [MIT License](LICENSE).
